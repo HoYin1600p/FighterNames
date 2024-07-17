@@ -543,6 +543,19 @@
         },
         "cost": 1
       }
+      "hungry": {
+        "display": {
+          "TAB_LIST": {
+            "text": "Hungry ",
+            "color": "#f1ce0e"
+          },
+          "CHAT": {
+            "text": "Hungry ",
+            "color": "#f1ce0e"
+          }
+        },
+        "cost": 1
+      },
     },
 
 
@@ -1282,19 +1295,6 @@
           "CHAT": {
             "text": " the Sleep Deprived",
             "color": "#35b9ca"
-          }
-        },
-        "cost": 1
-      },
-      "hungry": {
-        "display": {
-          "TAB_LIST": {
-            "text": "Hungry ",
-            "color": "#f1ce0e"
-          },
-          "CHAT": {
-            "text": "Hungry ",
-            "color": "#f1ce0e"
           }
         },
         "cost": 1
